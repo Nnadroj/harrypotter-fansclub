@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: center;
+  border-bottom-style: solid;
+  border-bottom-color: gold;
+}
+
+.header-title {
+  font-family: "HarryP";
+  font-size: 50px;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  color: gold;
+}

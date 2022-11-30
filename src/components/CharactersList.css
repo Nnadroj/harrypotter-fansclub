@@ -1,0 +1,52 @@
+.charactersList-title {
+  font-family: "HarryP";
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+  margin-left: 3%;
+}
+
+.charactersList-boxes {
+  grid-template-columns: repeat(3, 1fr);
+  display: grid;
+  gap: 30px;
+  place-items: center;
+}
+
+/**************************** FILTERS ***************************************/
+
+.charactersList-filters-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 3%;
+  padding: 1% 1% 1% 0;
+  margin: 0 0 2% 0;
+  border-bottom: gold solid;
+}
+
+.charactersList-searchBar {
+  display: flex;
+  justify-content: left;
+  width: 40%;
+}
+
+.charactersList-searchBar input {
+  margin-left: 2%;
+  width: 60%;
+  border-radius: 1rem;
+  font-size: large;
+}
+.charactersList-filter-house {
+  width: 30%;
+}
+
+.charactersList-filter-house label {
+  margin: 0 3% 0 3%;
+}
+.charactersList-filter-house select {
+  width: 40%;
+  border-radius: 1rem;
+  font-size: large;
+  margin-left: 3%;
+  height: 3rem;
+}

@@ -1,0 +1,83 @@
+.characterPage-global-container {
+  display: flex;
+}
+
+/****************************** TITLE ************************************/
+.characterPage-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 70%;
+  font-family: "HarryP";
+  font-size: 3rem;
+  letter-spacing: 2px;
+  padding: 1%;
+  max-height: 10vh;
+
+  text-align: center;
+}
+
+/****************************** LEFT PART ************************************/
+.characterPage-left-part {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.characterPage-main-infos {
+  border: solid gold;
+  padding: 2%;
+  border-radius: 20px;
+  width: 70%;
+  background-color: darkslategray;
+}
+
+.characterPage-house {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.characterPage-house img {
+  display: flex;
+  width: 7%;
+  margin-left: 5%;
+}
+
+.characterPage-physical-infos {
+  border: solid gold;
+  width: 70%;
+  padding: 2%;
+  border-radius: 20px;
+  margin-top: 2%;
+  background-color: darkslategray;
+}
+.characterPage-wand-infos {
+  border: solid gold;
+  border-radius: 20px;
+  padding: 2%;
+  width: 70%;
+  margin-top: 2%;
+  background-color: darkslategray;
+  line-height: 130%;
+}
+
+/***************************** RIGHT PART *************************************/
+.characterPage-right-part {
+  width: 50%;
+  grid-column-start: 2;
+}
+
+.characterPage-profile-pic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding-top: 2%;
+}
+.characterPage-profile-pic img {
+  object-fit: contain;
+  max-height: 60vh;
+  min-height: 60vh;
+}

@@ -1,0 +1,50 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 78vh;
+}
+.home-title {
+  font-family: "HarryP";
+  font-size: 40px;
+  letter-spacing: 0.2rem;
+}
+
+.home-logo-houses {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2%;
+}
+
+.home-house-name {
+  font-family: "HarryP";
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.7rem;
+  margin-bottom: 10%;
+}
+
+.home-house-button img {
+  height: 25rem;
+}
+
+.home-house-button img:hover {
+  filter: drop-shadow(0 0 0.5rem gold);
+}
+
+.home-character-list-button button {
+  font-size: 3rem;
+  font-family: "HarryP";
+  margin-top: 2rem;
+  min-width: 25vw;
+  width: 100%;
+  padding: 2%;
+  color: white;
+  background-color: black;
+  border: solid gold;
+  border-radius: 13px;
+}
+.home-character-list-button button:hover {
+  filter: drop-shadow(0 0 0.3rem gold);
+}

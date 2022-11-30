@@ -1,0 +1,65 @@
+.character-item {
+  background-color: darkslategray;
+  border: solid gold;
+  display: flex;
+  min-height: 17vh;
+  max-height: 17vh;
+  max-width: 30vw;
+  min-width: 30vw;
+  border-radius: 15px;
+}
+
+.character-item img {
+  max-width: 50%;
+  max-height: 90%;
+  object-fit: contain;
+  border-radius: 10%;
+}
+
+.character-card-left-part {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+}
+
+.character-card-left-part img {
+  width: 100%;
+}
+.character-card-center-part {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+}
+
+.character-card-center-part h3 {
+  font-size: 25px;
+  color: gold;
+  margin-bottom: 0;
+}
+.character-card-center-part p {
+  font-size: 15px;
+  margin-top: 2%;
+}
+
+.character-card-right-part {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+}
+
+.character-card-right-part button {
+  height: 40px;
+  border-radius: 13px;
+  border: solid gold;
+  width: 100px;
+}
+
+.character-card-right-part button:hover {
+  filter: drop-shadow(0 0 0.2rem gold);
+}
