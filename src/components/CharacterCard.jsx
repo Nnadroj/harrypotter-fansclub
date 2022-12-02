@@ -4,6 +4,7 @@ import "./CharacterCard.css";
 import { Link } from "react-router-dom";
 
 function CharacterCard(props) {
+  console.log(props.image);
   return (
     <div key={props.index} className="character-item">
       <div className="character-card-left-part">
