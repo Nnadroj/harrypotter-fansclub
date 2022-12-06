@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/harrypotter-fansclub/static/css/main.87bb4ceb.css",
+    "main.js": "/harrypotter-fansclub/static/js/main.bc82fa6e.js",
+    "static/media/hogwarts-logo.png": "/harrypotter-fansclub/static/media/hogwarts-logo.66f3fde5146364fa068a.png",
+    "static/media/Slytherin.png": "/harrypotter-fansclub/static/media/Slytherin.881c0d3105459f1fbb04.png",
+    "static/media/Ravenclaw-logo.png": "/harrypotter-fansclub/static/media/Ravenclaw-logo.75bb962b2c726e10aeff.png",
+    "static/media/Gryffindor-logo.png": "/harrypotter-fansclub/static/media/Gryffindor-logo.7e859f26d28da8683a18.png",
+    "static/media/Ravenclaw.png": "/harrypotter-fansclub/static/media/Ravenclaw.e7d88570d71e430012df.png",
+    "static/media/Gryffindor.png": "/harrypotter-fansclub/static/media/Gryffindor.a8081cb8986fa183bf41.png",
+    "static/media/Hufflepuff-logo.png": "/harrypotter-fansclub/static/media/Hufflepuff-logo.3ebaf5cff354f30cbcf1.png",
+    "static/media/Slytherin-logo.png": "/harrypotter-fansclub/static/media/Slytherin-logo.07f2a847322d163b054c.png",
+    "static/media/Hufflepuff.png": "/harrypotter-fansclub/static/media/Hufflepuff.ee69fb57ffdef4d1dab6.png",
+    "static/media/HARRYP__.TTF": "/harrypotter-fansclub/static/media/HARRYP__.a65869c0c1a4b3d4fcfc.TTF",
+    "index.html": "/harrypotter-fansclub/index.html",
+    "main.87bb4ceb.css.map": "/harrypotter-fansclub/static/css/main.87bb4ceb.css.map",
+    "main.bc82fa6e.js.map": "/harrypotter-fansclub/static/js/main.bc82fa6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87bb4ceb.css",
+    "static/js/main.bc82fa6e.js"
+  ]
+}
