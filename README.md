@@ -6,16 +6,16 @@ Ce projet est un exercice à destination des développeurs juniors souhaitant pr
 
 Créer une one page app en React avec React Router Dom.
 
-- Page `Home` qui permet de naviguer entre les pages de personnages et de maison
-- Page `House` qui présenter la liste des maison de Harry Potter
-- Page `CharaecterList` qui affiche la liste de tous les utilisateurs avec un champs de recherche
+- Page `Home` qui permet de naviguer entre les pages de personnages et de maisons
+- Page `House` qui présente la liste des maisons de Harry Potter
+- Page `CharacterList` qui affiche la liste de tous les utilisateurs avec un champ de recherche
 - Page `CharacterDetails` qui présente le détail d'un personnage
 
 > Conseils : Pensez à séparer les fetch dans des fichiers spécifiques.
 
 ## Screenshots
 
-Ces images sont fournis à titre indicatif pour vous permettre de mieux comprendre l'objectif de cet exercice
+Ces images sont fournies à titre indicatif pour vous permettre de mieux comprendre l'objectif de cet exercice
 
 ![Accueil](./screens/home.png)
 ![Tous les personnages](./screens/character-list.png)
