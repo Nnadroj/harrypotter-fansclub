@@ -21,7 +21,7 @@ function App() {
         <BrowserRouter>
           <Header />
           <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/harrypotter-fansclub/" element={<Home />} />
             <Route path="/:house" element={<House />} />
             <Route path="/characters-list" element={<CharactersList />} />
             <Route
