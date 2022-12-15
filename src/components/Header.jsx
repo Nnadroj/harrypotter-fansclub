@@ -6,7 +6,7 @@ import "../fonts/HARRYP__.TTF";
 function Header() {
   return (
     <div className="header">
-      <a href="/" className="header-title">
+      <a href="/harrypotter-fansclub/" className="header-title">
         Harry Potter Fans Club
       </a>
     </div>
