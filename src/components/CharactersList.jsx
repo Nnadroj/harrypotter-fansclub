@@ -14,6 +14,7 @@ function CharactersList() {
     fetchFunctions.fetchDataByCharacters().then((data) => {
       setCharacters(data);
     });
+    
   }, [setCharacters]);
 
   const handleChangeHouse = (event) => setSelectedHouse(event.target.value);
