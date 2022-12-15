@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/harrypotter-fansclub/static/css/main.87bb4ceb.css",
-    "main.js": "/harrypotter-fansclub/static/js/main.d5213f25.js",
+    "main.js": "/harrypotter-fansclub/static/js/main.e34bb9f4.js",
     "static/media/hogwarts-logo.png": "/harrypotter-fansclub/static/media/hogwarts-logo.66f3fde5146364fa068a.png",
     "static/media/Slytherin.png": "/harrypotter-fansclub/static/media/Slytherin.881c0d3105459f1fbb04.png",
     "static/media/Ravenclaw-logo.png": "/harrypotter-fansclub/static/media/Ravenclaw-logo.75bb962b2c726e10aeff.png",
@@ -14,10 +14,10 @@
     "static/media/HARRYP__.TTF": "/harrypotter-fansclub/static/media/HARRYP__.a65869c0c1a4b3d4fcfc.TTF",
     "index.html": "/harrypotter-fansclub/index.html",
     "main.87bb4ceb.css.map": "/harrypotter-fansclub/static/css/main.87bb4ceb.css.map",
-    "main.d5213f25.js.map": "/harrypotter-fansclub/static/js/main.d5213f25.js.map"
+    "main.e34bb9f4.js.map": "/harrypotter-fansclub/static/js/main.e34bb9f4.js.map"
   },
   "entrypoints": [
     "static/css/main.87bb4ceb.css",
-    "static/js/main.d5213f25.js"
+    "static/js/main.e34bb9f4.js"
   ]
 }
